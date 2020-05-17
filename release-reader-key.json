@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kuchima01",
+  "private_key_id": "68145070ca423cbfa542bf064423740e78c80635",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCq8uPJEnbe4j1Q\nifq5U+WKJXbraIPhyByzBGEoZ7gzB13tZaEffo+nsJbeYqYgoyDVWVu+lXxBYaTt\n1+JVtpqnOQcBGnj1dVEW0vnwxdaRCE8oz41ijCCR5e9pgiXUtvIPzmZxJPakODHg\nIDPWeWWJeWbMzRYSicyxlEi5hXwpRmODUIIy9m+ami6nn77v3lhcWoHK2tnAfPWK\n4gfA90jlzDrxS56Bxxqp8TTcVkrOdHsQ+LJ5SWN6k4oWdnIlnd0u/Romi8s6H+wU\nan8EKYX2ViOdBdMx9dEvItNmAKiNnkOTInNumfkTRA/W/2FkVbDsk9XiXGFbEg3u\nelhw9xt9AgMBAAECggEACzpd1LiWPyhr74zIf4CvrGWujGK2es9qdyWb/gvl8NAU\njsGklg15gQGbvyqKj803HFw8puVpnl+79fU+g/O077PSrnNfK3wToeSkjvhnkeoS\nTPNo7WaXww1vrqXiNzj26Cvd1aOgYYPhXr+ut/EMRr3HDz+PKhOL8sPzDOBkGc/O\nfYKiIN92uBmmHiTHlFSZeBusOhg7jpODjfN5LeazPieyZHGYTU8oMNrTB362GWAk\nBN2xYx7iPA2lwhgMmbXlzZtn00eCl4RfaJu2aYTs4ptOq5neenBSg2YXWiUwSuOa\nMwHvHzUTM2TaZ1mNDfC5ThuuOpzTOJOygfgahAuFsQKBgQDwWly2xjD58tAWz53S\nLo2h8uMxLBmGCPtzd0yacjUyfvlornNOOfeZV1W38Vzb7Hm+S2UyOcDZr6Sf15oD\nfUUove8JQuP+/X1MsVYfO7KKCOOjHO3ypk3C9XEJituwtIn6+7L/VF/U3GvPEeZh\nRO9SFC6lY124huKURXZWmPoTWQKBgQC2E9ymyhQTsz7qCE4vatx0l9im1u3zxOIN\n3nkUnJXUz9sV0E0pqKJsxjEJ8DGR2PR/wKCZgWIZCUwer6H1hq9iqpyvdkuInWY7\niJmAoL8o6qub5JmF1NlzUNK4ryHZe4j2sPDykAfc4O7skwY+F/qfBrmuFbmXhzP1\n2+NMUwj4xQKBgQCnSz4dOfX9A7UzK29+TEjo4Faicz+Qu8/JntAC8Ft2ukp/Qm2f\nlVlxsghH8AfiS8axXWkifHBvFIJRf5ADvb3Vjd5DY/uuEGKWbxiyxKqQyX8omYpF\nytt1R8FWEwC3DfK8b1U3w1KwpnujtaHVMlYhm0qcc31YYwpyiabEv9XQgQKBgBJU\nsZRBKABLvXvGVkjD02oRl4hEfzRZkAChc0M1+IeyXXY2wG3/Qkr9MRa1DeiHFSZ/\neCu8MOogW3+DYyTa6HFgh+HKYRRh9FbuC7Y9eMFfzuMlAqfMpA/OBUj+qMPCgimD\n6t4gzgnYw3Uh4DEELQExpiP2n/a3b+3Cs4GNoouZAoGBAM6r7Ycsvea7HgPkul7j\njbpMdlsODyhzgK1e6cUmWBV8iPwdxTZTlYygJfcT4VcCjxcPvMBHz6VulX7dYilI\nlfZPE6l2DxdRgBqMvMrWElDDDuZcE9djpXv3RPIK5maEJlcFo6U+wy6ESfoUOQnM\nXzBhxJtth6FwO9FlQgB3GPr2\n-----END PRIVATE KEY-----\n",
+  "client_email": "gke-onprem-lab@kuchima01.iam.gserviceaccount.com",
+  "client_id": "104216116839876776290",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gke-onprem-lab%40kuchima01.iam.gserviceaccount.com"
+}
